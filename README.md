@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br> 🌱 **Lifelong Learner** on a journey through the world of Computer Vision and AI.<br>💡 Currently exploring the boundaries of Deep Learning, one project at a time.<br>🌍 Passionate about **traveling** and discovering new perspectives—both in tech and in life.<br><br>
+<br> 🌱 **Lifelong Learner** on a journey through the world of databases..<br>💡 Currently exploring the boundaries of data management.<br>🌍 Passionate about **traveling** and discovering new perspectives—both in tech and in life.<br><br>
 
 
 ## 🌐 Socials:
